@@ -1,1 +1,7 @@
-![Image of Yaktocat... kind of a weird cat](https://octodex.github.com/images/yaktocat.png)
+###Let's try some code blocks using markdown
+```python
+def hello()
+  print('hello')
+#this is a function call
+hello()
+```
