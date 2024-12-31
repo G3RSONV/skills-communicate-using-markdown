@@ -1,18 +1,1 @@
-# This is a BIG header
-### This is a MEDIUM header
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Testing the header in Markdown
+![Image of Yaktocat... kind of a weird cat](https://octodex.github.com/images/yaktocat.png)
